@@ -1,0 +1,30 @@
+
+/*Component Name: Header -- CSS on waqas picture*/
+.waqasPic{
+    height: 80px;
+    width: 80px;
+    padding-top: 10px;
+    border-radius: 50px;
+}
+
+.table td{
+    border:1px solid;
+    background-color: azure;
+}
+
+.btn{
+    width:200px;
+}
+
+
+
+/* this css class used in login page */
+.display{
+    display: none;
+}
+
+
+/* this css class is used in experience page at key responsibilities */
+.experience{
+    padding-left: 10px;
+}
