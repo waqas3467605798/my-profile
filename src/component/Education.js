@@ -3,11 +3,11 @@ import '../App.css'
 import {Link} from 'react-router-dom'
 import {Route} from 'react-router-dom'
 import M from "materialize-css";
-// import fa from '../images/fa.jpg'
-// import matric from '../images/matric.jpg'
-// import mba from '../images/mba.jpg'
-// import mba_res from '../images/mba_res.jpg'
-// import bcom from '../images/bcom.jpg'
+import fa from '../images/fa.jpg'
+import matric from '../images/matric.jpg'
+import mba from '../images/mba.jpg'
+import mba_res from '../images/mba_res.jpg'
+import bcom from '../images/bcom.jpg'
 
 class Education extends Component {
 constructor(){
@@ -56,16 +56,22 @@ componentDidMount(){
 
  
        
-              {/* <div className="carousel">
-              <a className="carousel-item" href="#one!">   <img src={fa} alt='pic here'/> </a>
-              <a className="carousel-item" href="#two!">   <img src={matric} alt='pic here'/> </a>
-              <a className="carousel-item" href="#three!">   <img src={bcom} alt='pic here'/> </a>
-              <a className="carousel-item" href="#four!">   <img src={mba_res} alt='pic here'/> </a>
-              <a className="carousel-item" href="#five!">   <img src={mba} alt='pic here'/> </a>
-              </div>
-           */}
+            
 
             
+
+
+<div className="carousel carousel-slider">
+<a className="carousel-item" href="#one!"><img src={fa} alt='pic here' width='400' height='800' /> </a>
+ <a className="carousel-item" href="#two!"><img src={matric} alt='pic here' width='400' height='800'  /> </a>
+<a className="carousel-item" href="#three!"><img src={mba} alt='pic here' width='400' height='800' /> </a>
+<a className="carousel-item" href="#four!"><img src={mba_res} alt='pic here' width='400' height='800'  /> </a>
+<a className="carousel-item" href="#five!"><img src={bcom} alt='pic here' width='400' height='800' /> </a>
+</div>
+
+
+
+
 
 
 

@@ -30,7 +30,7 @@ class App extends Component {
 <Route path='/Experience' component={Experience}/>
 <Route path='/Itskills' component={Itskills}/>
 <Route path='/Contact' component={Contact}/>
-<Route path='/Login' component={Login}/>
+{/* <Route path='/Login' component={Login}/> */}
 <Footer/>
 </div>
 </BrowserRouter>

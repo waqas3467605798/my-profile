@@ -7,14 +7,14 @@ import "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAfZmxd9OyGEmTcU6P3K5sZGPaDHHCg3NI",
-    authDomain: "my-profile-fa398.firebaseapp.com",
-    databaseURL: "https://my-profile-fa398.firebaseio.com",
-    projectId: "my-profile-fa398",
-    storageBucket: "my-profile-fa398.appspot.com",
-    messagingSenderId: "793419085085",
-    appId: "1:793419085085:web:e8dba3362d2a58a9f39df4",
-    measurementId: "G-SEWW8LJ2ZR"
+  apiKey: "AIzaSyBet13KL9d5wsDCFpYM7tIQnVV9Aa0-fT0",
+    authDomain: "my-profile-54a83.firebaseapp.com",
+    databaseURL: "https://my-profile-54a83.firebaseio.com",
+    projectId: "my-profile-54a83",
+    storageBucket: "my-profile-54a83.appspot.com",
+    messagingSenderId: "748140405946",
+    appId: "1:748140405946:web:6ba855a3574aae66ce0e83",
+    measurementId: "G-EYQFC3MPDV"
 
 };
   // Initialize Firebase

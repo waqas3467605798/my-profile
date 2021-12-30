@@ -57,14 +57,14 @@ constructor(){
 
 
 
-                        <div className='container'>
+                        {/* <div className='container'>
                         <div className="card blue-grey lighten-4">
                         <div className="card-content black-text">
                         <span className="card-title blue-text"><b>About Me</b>  </span>
                         <p style={{textAlign:'justify', fontFamily:'Bodoni MT'}}> My name is waqas saleem. I was born in Faisalabad. My father was a Govt. School teacher. He retired and passed away in 2010. I belong to a middle level family. As a student, I was not a very good, but a normal student. I studied till 16th Class but passed all the exams with a normal marks (Not have an excellent marks). But i belief, everyone are expert in his own field. Education is like a field, some performed here and some not. However, i started my career in 2007 as an Assistant Accounts Officer in a private firm. For more info, plz visit my profile. </p>
                         </div>
                         </div>
-                        </div>
+                        </div> */}
 
 
 
@@ -91,7 +91,7 @@ constructor(){
 <div className="col s12 m6">
 <div className='center'><Link to='/Education'><button className="waves-effect waves-light btn-large btn">Education</button></Link> </div><br/>
 <div className='center'><Link to='/Itskills'><button className="waves-effect waves-light btn-large btn">I.T Skilss</button></Link> </div><br/>
-<div className='center'><Link to='/Login'><button className="waves-effect waves-light btn-large btn" style={{fontSize:'10px'}}>Make your Own Profile</button></Link> </div>
+{/* <div className='center'><Link to='/Login'><button className="waves-effect waves-light btn-large btn" style={{fontSize:'10px'}}>Make your Own Profile</button></Link> </div> */}
 </div>
 
 
